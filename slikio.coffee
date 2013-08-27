@@ -2,7 +2,7 @@ $ = require 'jquery'
 class exports.SlikIO
 	constructor: (privatekey) ->
 		@private_key = privatekey
-		@baseUrl = "http://app.slik.io/api/v1/"
+		@baseUrl = "https://app.slik.io/api/v1/"
 
 		this.post = (url, data) ->
 			$.ajax({
