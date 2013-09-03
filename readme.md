@@ -1,4 +1,4 @@
-This is a Node.js package for SlikIO - Charts as a service.
+This is a Node.js package for SlikIO - Charts for developers.
 
 #Installation
 To get the package, install Node.js and npm, then run:

@@ -1,7 +1,9 @@
 {
   "name": "slikio",
-  "version": "0.0.1",
-  "description": "Node.js package for SlikIO - Charts as a service",
+  "version": "0.0.2",
+  "homepage": "http://slik.io",
+  "repository": {"type": "git", "url": "https://github.com/SlikIO/slikio-nodejs"},
+  "description": "Node.js package for SlikIO - Charts for developers. For more information check http://slik.io",
   "main": "slikio.js",
   "dependencies": {
     "coffee-script": "1.6.3",
@@ -14,7 +16,9 @@
   "keywords": [
     "SlikIO",
     "slik.io",
-    "Charts"
+    "Charts",
+    "Graphs",
+    "Charting"
   ],
   "author": "Daniel Brodsky",
   "license": "MIT"
