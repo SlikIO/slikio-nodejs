@@ -1,18 +1,12 @@
 {
   "name": "slikio",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "homepage": "http://slik.io",
   "repository": {"type": "git", "url": "https://github.com/SlikIO/slikio-nodejs"},
   "description": "Node.js package for SlikIO - Charts for developers. For more information check http://slik.io",
   "main": "slikio.js",
-  "dependencies": {
-    "coffee-script": "1.6.3",
-    "jquery": "1.8.3"
-  },
+  "dependencies": {},
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "SlikIO",
     "slik.io",
